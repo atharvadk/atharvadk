@@ -97,27 +97,31 @@ Machine learning models for healthcare data analysis, providing insights for bet
 </div>
 
 ---
-
 ### 💡 Areas of Expertise
-
 ```text
 🧠 Machine Learning
-🍵Java development
-⚛️  React & Frontend
+🍵 Java development
+⚛️ React & Frontend
 🐍 Python Development
 📈 Time-Series Models
 🌐 Full-Stack Dev
+🤗 Hugging Face Transformers (Whisper, RoBERTa)
 ```
 
+### 🤖 Experience with Pre-trained Models
+
+- **🎙️ Whisper** - Worked with OpenAI's automatic speech recognition model for transcription and audio processing tasks
+- **📝 RoBERTa** - Implemented and fine-tuned RoBERTa models for NLP tasks including text classification and sentiment analysis
+- **🤗 Hugging Face Ecosystem** - Extensive experience with transformer models, tokenizers, and the Transformers library
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -125,6 +129,7 @@ Machine learning models for healthcare data analysis, providing insights for bet
 ### AI/ML & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
